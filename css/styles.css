@@ -1,0 +1,41 @@
+h1{ /*Seleector de tipo*/
+    color:rgb(234, 25, 94);
+    text-align:center;
+    font-family: 'Fredericka the Great', cursive;
+}
+h2{
+    color:rgb(179, 14, 165);
+    text-emphasis-color;
+    font-family: 'Tangerine', cursive;
+}
+
+/*Selectores de clase
+Selecciona elementos de clase específica asignada*/
+
+.general{
+    background-color:beige;
+} /*Permite seleccionar un elemento con un id específico*/
+
+*{
+    background-color: lightpink;
+}
+
+#hobbies{
+    color:blue;
+} /*No se comparte con algún otro elemento*/
+
+table, td, th{
+    text-align: center;
+    border: 1px solid black;
+    float
+}
+
+td {
+    background-color: #5badf5;
+    color: white;
+  }
+
+th {
+    background-color: #04AA6D;
+    color: white;
+  }
